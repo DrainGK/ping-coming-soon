@@ -69,6 +69,10 @@ form{
     color: hsl(223, 100%, 88%);
     outline: none;
 }
+
+.notvalid{
+    border: 1px solid red;
+}
 input::placeholder {
     text-indent: 2rem;
     color: hsl(223, 100%, 88%);
