@@ -70,7 +70,8 @@ form{
     outline: none;
 }
 
-.notvalid{
+.error input{
+    color: red;
     border: 1px solid red;
 }
 input::placeholder {
